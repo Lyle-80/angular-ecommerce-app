@@ -16,4 +16,8 @@ items = [];
     this.items = [];
     return this.items; 
     }
+
+    constructor() { 
+      
+    }
 }
